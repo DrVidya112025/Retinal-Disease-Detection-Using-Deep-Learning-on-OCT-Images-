@@ -32,7 +32,7 @@ Highlights:
 
 The work is split into eight notebooks, meant to be run in order.
 
-| Step | Notebook | What it covers |
+| Step | Notebook | Description |
 |---|---|---|
 | 1 | `Step1_Dataset_Collection_and_Understanding.ipynb` | Load data, labels, class balance, image properties |
 | 2 | `Step2_Image_Preprocessing.ipynb` | Resize, tensors, normalization, augmentation, stratified splits |
