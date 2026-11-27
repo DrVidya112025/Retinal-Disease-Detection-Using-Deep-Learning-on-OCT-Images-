@@ -92,6 +92,6 @@ Some cells use `QUICK_MODE = True` (smaller images, shorter runs). Set it to `Fa
 - Kermany, D. S. et al. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. *Cell*, 172(5), 1122-1131.
 - Selvaraju, R. R. et al. (2017). Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization. *ICCV*.
 
-## License
+## Author
 
-Add a license of your choice (for example MIT) before publishing.
+Vidya Priya V
